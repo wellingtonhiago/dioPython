@@ -1,0 +1,5 @@
+name = input("Digite seu nome: ")
+lastName = input("Digite seu sobrenome: ")
+print("Hello, World!")
+print("Hello, " + name + "!")
+print(f"Hello, {lastName}")
